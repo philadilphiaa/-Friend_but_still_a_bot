@@ -1,0 +1,12 @@
+# Секретные файлы
+config.ini
+*.key
+.env
+
+# Папки Python
+__pycache__/
+venv/
+
+# Системные файлы
+.DS_Store
+thumbs.db
